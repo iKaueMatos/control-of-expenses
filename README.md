@@ -30,7 +30,7 @@ Crie um pull request neste repositório, explicando suas alterações.
 Este projeto está sob a licença [Kaue de matos]. Para mais informações, consulte o arquivo LICENSE.
 
 ## 📊 Status do Projeto
-Este projeto está [concluído] e pode ser encontrado em produção em [ ].
+Este projeto está [concluído] e pode ser encontrado em produção em [https://ikauematos.github.io/control-of-expenses/].
 
 ## 📌 Sobre mim
 Meu nome é [Kaue de matos], sou Estagiario de desenolvimento em php e adoro trabalhar em projetos de tecnologia. Se quiser saber mais sobre mim ou entrar em contato, confira meu perfil do Linkedin:https://www.linkedin.com/in/ikauematos/
